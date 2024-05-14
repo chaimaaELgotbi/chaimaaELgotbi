@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Artificial intelligence and its domains (ML, DL, TL)**
 
 - ⚡ Fun fact
-- **From high-flying kicks to delicate stitches, I'm a dual-force of taekwondo 🥋 prowess and sewing wizardry 🧵, balancing strength with elegance in every move and every stitch!.**
+**From high-flying kicks to delicate stitches, I'm a dual-force of taekwondo 🥋 prowess and sewing wizardry 🧵, balancing strength with elegance in every move and every stitch!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
