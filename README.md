@@ -1,26 +1,15 @@
-<!-- <img src="https://img.wattpad.com/91ada2a2eed533898fcb10adfc8bc90dfc350f5c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5451462d374d76456f56387546673d3d2d313039353937393732372e313638663339353566616161323965653336323136343139363732322e676966" alt="Masterhead" width="1340" height="700">
-<img src="https://img.wattpad.com/91ada2a2eed533898fcb10adfc8bc90dfc350f5c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5451462d374d76456f56387546673d3d2d313039353937393732372e313638663339353566616161323965653336323136343139363732322e676966" alt="Masterhead" style="margin-left: 230px;">!-->
+<img src="https://img.wattpad.com/91ada2a2eed533898fcb10adfc8bc90dfc350f5c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5451462d374d76456f56387546673d3d2d313039353937393732372e313638663339353566616161323965653336323136343139363732322e676966" alt="Masterhead" style="margin-left: 200px;" width="970" height="450"  > 
 
-<img src="https://img.wattpad.com/91ada2a2eed533898fcb10adfc8bc90dfc350f5c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5451462d374d76456f56387546673d3d2d313039353937393732372e313638663339353566616161323965653336323136343139363732322e676966" alt="Masterhead" style="margin-left: 230px;" width="900" height="450"  align="center"> 
+![Masterhead](https://img.wattpad.com/91ada2a2eed533898fcb10adfc8bc90dfc350f5c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f5451462d374d76456f56387546673d3d2d313039353937393732372e313638663339353566616161323965653336323136343139363732322e676966)
+
+<h1 align="center">
+  Hi 👋, I'm Chaimaa Elgotbi, but call me Chamacim 😉
+</h1> 
 
 
-<!--<h1 align="center">Hi 👋, I'm Chaimaa Elgotbi, but call me Chamacim 😉</h1>!-->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap" rel="stylesheet">
-<h1 style="font-family: 'Dancing Script', cursive; text-align: center;">
-    Hi 👋, I'm Chaimaa Elgotbi, but call me Chamacim 😉</h1>
-
-<!--<h3 style="font-family: 'Caveat', 'Dancing Script', cursive;" align="center">
-    A passionate Data Scientist from Morocco</h3>!-->
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Dancing+Script:wght@400..700&family=Indie+Flower&family=Tangerine:wght@400;700&display=swap" rel="stylesheet">
-<!--<h3 style="font-family: 'Caveat', 'Dancing Script', 'Indie Flower', cursive; text-align: center;">
-    A passionate Data Scientist from Morocco</h3> !-->
-
-<h3 style="font-family: 'Caveat', 'Dancing Script', 'Indie Flower', 'Tangerine', cursive; text-align: center;">
-        A passionate Data Scientist from Morocco</h3>
+<h3 align="center">
+        A passionate Data Scientist from Morocco
+</h3>
     
 
 <!--<img align="right" alt="Coding" width="400" src="C:/Users/Chaimaa/Documents/Pixel Jeff X Divoom.gif"> !-->
